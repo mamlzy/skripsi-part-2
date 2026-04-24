@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+storage/*.db
+storage/*.sqlite
+storage/model/*.joblib
+storage/model/*.json
+storage/dataset/*.xlsx
+storage/dataset/*.csv
